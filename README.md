@@ -4,7 +4,7 @@
 
 ## 摘要
 
->>MEAN Stack堆栈是网站开发比较流行的一种方式，包括数据库MongoDB,服务器端框架express及node.js,客户端框架angular。利用这种方式能快速而且高效的开发网站。MEAN Stack将过去复杂的网站技术堆栈看成数据库，语言，web框架的组合，取得了比较广泛的应用，尤其体现在单页面应用SPA方面。本项目confusion餐馆点餐应用，利用boostrap，angular，express，node.js框架和mongodb数据库构建了一个典型的spa应用，并用gulp构建自动化工作流。向用人单位展示基本的SPA开发技能。
+>>MEAN Stack堆栈是网站开发比较流行的一种方式，包括数据库MongoDB,服务器端框架express及node.js,客户端框架angular。利用这种方式能快速而且高效的开发网站。MEAN Stack将过去复杂的网站技术堆栈看成数据库，语言，web框架的组合，取得了比较广泛的应用，尤其体现在单页面应用SPA方面。本项目confusion餐馆点餐应用，利用boostrap，angular，express，node.js框架和mongodb数据库构建了一个典型的spa应用，并用gulp构建自动化工作流，最后借助karmaJS测试框架完成测试。向用人单位展示基本的SPA开发技能。
 
 
 ## 引言
